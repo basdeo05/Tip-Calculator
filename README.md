@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 -Used a stepper to choose the amount of people
 
 ## Video Walkthrough
-![](https://i.imgur.com/3cFS1QC.gif)
+![](https://i.imgur.com/qTQcbc4.gif)
 ## Notes
 ## License
 
